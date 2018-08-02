@@ -2,6 +2,7 @@
 
 #
 
+A complete browser-based card matching game (also known as Concentration).
 
 The Memory Game was created with HTML, CSS, JavaScript, and JQuery
 
@@ -58,7 +59,7 @@ The reset button resets the game. The game and the player's achievement will res
 
 #Winning the game
 Requirements:
-In each round, the player can open two cards. If the card´s match the cards will stay open if not they will be turned back. 
+In each round, the player can open two cards. If the cardÂ´s match the cards will stay open if not they will be turned back. 
 A congratulation window will open as soon as the player opens all identical card pairs in each round. 
 
 The congratulation window tells the user how much time it took to win the game, and what the star rating was. 
